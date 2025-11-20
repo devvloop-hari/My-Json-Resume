@@ -11,12 +11,12 @@
   },
 
   "skills": [
-    { "name": "Algorithmic Trading", "keywords": ["FX & Crypto", "MQL5", "MetaTrader 5", "Backtesting", "Optimisation"] },
-    { "name": "Programming", "keywords": ["Python", "Rust (basic)", "API Integration (REST)", "SQL"] },
-    { "name": "Quantitative Analysis", "keywords": ["Data ETL", "Performance Metrics", "Risk Management"] },
-    { "name": "Cloud Systems", "keywords": ["AWS", "VPS", "Automation"] },
-    { "name": "Trading Instruments", "keywords": ["FX", "Futures", "Options", "Digital Assets"] },
-    { "name": "Soft Skills", "keywords": ["Collaboration", "Communication", "Problem Solving"] }
+    { "keywords": ["FX & Crypto", "MQL5", "MetaTrader 5", "Backtesting", "Optimisation"] },
+    { "keywords": ["Python", "Rust (basic)", "API Integration (REST)", "SQL"] },
+    { "keywords": ["Data ETL", "Performance Metrics", "Risk Management"] },
+    { "keywords": ["AWS", "VPS", "Automation"] },
+    { "keywords": ["FX", "Futures", "Options", "Digital Assets"] },
+    { "keywords": ["Collaboration", "Communication", "Problem Solving"] }
   ],
 
   "work": [
