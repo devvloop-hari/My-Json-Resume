@@ -3,116 +3,81 @@
     "name": "Harish Balasubramani",
     "label": "Algorithmic Trader & Fintech Specialist",
     "email": "hari.stockvice@gmail.com",
-    "phone": "+44 07423134945",
+    "phone": "+44 7423 134945",
     "location": {
-      "city": "Sheffield",
-      "country": "United Kingdom"
+      "city": "Sheffield"
     },
-    "summary": "Experienced in digital assets and FX markets with hands-on involvement in trading operations, options, and OTC environments across the EMEA region. Skilled in cryptocurrency trading and algorithm development using Rust, Python, and MQL5. Strong understanding of asset management, RWA, and SLA performance metrics. Focused on alpha generation through data-driven strategies, process optimisation, and innovation within digital trading ecosystems and accelerator programs.",
-    "profiles": [
-      {
-        "network": "Email",
-        "username": "hari.stockvice@gmail.com",
-        "url": "mailto:hari.stockvice@gmail.com"
-      }
-    ]
+    "summary": "Experienced in FX and digital-asset markets with hands-on work in trading operations, options, and OTC environments across EMEA. Skilled in Python and MQL5 for algorithmic system design, backtesting, and optimisation. Strong grasp of asset management, RWA, and SLA metrics, focused on data-driven strategy design and process automation."
   },
-  "education": [
-    {
-      "institution": "Sheffield Hallam University",
-      "area": "Global Financial Trading",
-      "studyType": "MSc",
-      "startDate": "2024-01",
-      "endDate": "2025-05",
-      "location": "United Kingdom"
-    },
-    {
-      "institution": "Kalinga University",
-      "area": "Mechanical Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2017-07",
-      "endDate": "2021-08",
-      "location": "India"
-    }
+
+  "skills": [
+    { "name": "Algorithmic Trading", "keywords": ["FX & Crypto", "MQL5", "MetaTrader 5", "Backtesting", "Optimisation"] },
+    { "name": "Programming", "keywords": ["Python", "Rust (basic)", "API Integration (REST)", "SQL"] },
+    { "name": "Quantitative Analysis", "keywords": ["Data ETL", "Performance Metrics", "Risk Management"] },
+    { "name": "Cloud Systems", "keywords": ["AWS", "VPS", "Automation"] },
+    { "name": "Trading Instruments", "keywords": ["FX", "Futures", "Options", "Digital Assets"] },
+    { "name": "Soft Skills", "keywords": ["Collaboration", "Communication", "Problem Solving"] }
   ],
+
   "work": [
     {
-      "name": "Independent",
+      "name": "Independent Projects",
       "position": "MQL5 Developer & Fintech Specialist",
       "startDate": "2021-08",
       "endDate": "2024-01",
-      "summary": "Designed and deployed automated trading systems for digital assets, FX, and options, integrating APIs, data feeds, and indicators. Conducted ETL, backtesting, and optimisation using MQL5 and Python to ensure reliability. Improved OTC workflows and algorithms, enhancing automation and alpha generation."
+      "summary": "Designed and deployed automated trading systems for digital assets, FX, and options integrating APIs, data feeds, and custom indicators.",
+      "highlights": [
+        "Built high-frequency and trend-following EAs; improved execution reliability through code optimisation and robust error handling.",
+        "Conducted ETL and large-scale backtesting in MQL5/Python, enhancing validation accuracy and alpha generation.",
+        "Improved OTC workflows via automated signals and risk-based position sizing."
+      ]
     },
     {
       "name": "ZISHI",
       "position": "Junior Trader (Internship)",
       "startDate": "2024-08",
       "endDate": "2024-10",
-      "summary": "Assisted in trading operations across digital assets, FX, and options, analysing data to support algorithmic strategy development. Monitored market performance, executed simulated trades, and ensured SLA adherence within client portfolios. Collaborated with senior traders to enhance algorithmic efficiency, risk control, and overall business performance."
+      "summary": "Supported trading operations in digital assets, FX, and options; contributed to data-driven strategy development and risk management.",
+      "highlights": [
+        "Monitored market performance and executed simulated trades aligned with desk SLAs.",
+        "Collaborated with senior traders to refine algorithmic logic and risk-control parameters."
+      ]
     }
   ],
+
   "projects": [
     {
-      "name": "Optimising Forex Trading Strategies in MQL5: HFT, Trend & Mean-Reversion",
-      "description": "Developed and tested algorithmic trading strategies in MQL5 and MetaTrader 5, analysing performance across multiple market conditions. Applied data analysis, ETL, and performance metrics to enhance system efficiency, risk control, and algorithmic optimisation."
-    },
-    {
       "name": "MQL5 Trading Indicator",
-      "description": "Developed an algorithmic trading indicator with 12 configurable moving averages (SMA, EMA) for multi-timeframe data analysis in digital assets and FX markets. Designed intuitive interface with visual alerts and setup documentation for ease of use."
+      "description": "Created a multi-timeframe indicator with 12 configurable moving averages (SMA/EMA) and real-time alerts for trend identification."
+    },
+    {
+      "name": "Optimising Forex Trading Strategies in MQL5: HFT, Trend & Mean-Reversion",
+      "description": "Developed and tested algorithmic strategies using MQL5 and MetaTrader 5; applied data analysis and KPIs to improve risk-adjusted returns."
     }
   ],
-  "skills": [
+
+  "education": [
     {
-      "name": "Algorithmic Trading",
-      "keywords": [
-        "MQL5",
-        "Python",
-        "Rust",
-        "MetaTrader 5",
-        "Trading Indicators",
-        "Backtesting",
-        "Strategy Optimisation"
-      ]
+      "institution": "Sheffield Hallam University",
+      "location": "Sheffield, United Kingdom",
+      "studyType": "MSc",
+      "area": "Global Financial Trading",
+      "startDate": "2024-01",
+      "endDate": "2025-05"
     },
     {
-      "name": "Quantitative Analysis",
-      "keywords": [
-        "Data ETL",
-        "Statistical Modelling",
-        "Performance Metrics",
-        "Risk Management"
-      ]
-    },
-    {
-      "name": "Cloud & Systems",
-      "keywords": [
-        "AWS",
-        "VPS",
-        "API Integration",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Trading & Markets",
-      "keywords": [
-        "FX",
-        "Futures",
-        "Options",
-        "Digital Assets",
-        "DeFi",
-        "OTC"
-      ]
+      "institution": "Kalinga University",
+      "location": "Raipur, India",
+      "studyType": "BEng",
+      "area": "Mechanical Engineering",
+      "startDate": "2017-07",
+      "endDate": "2021-08"
     }
   ],
+
   "certificates": [
-    {
-      "name": "Bloomberg Market Concepts (BMC)"
-    },
-    {
-      "name": "Python Programming – Besant Technologies"
-    },
-    {
-      "name": "NCFM Technical Analyst – NSE India"
-    }
+    { "name": "Bloomberg Market Concepts (BMC)" },
+    { "name": "Python Programming – Besant Technologies" },
+    { "name": "NCFM Technical Analyst – NSE India" }
   ]
 }
