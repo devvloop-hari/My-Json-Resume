@@ -20,18 +20,7 @@
   ],
 
   "work": [
-    {
-      "name": "Independent Projects",
-      "position": "MQL5 Developer & Fintech Specialist",
-      "startDate": "2021-08",
-      "endDate": "2024-01",
-      "summary": "Designed and deployed automated trading systems for digital assets, FX, and options integrating APIs, data feeds, and custom indicators.",
-      "highlights": [
-        "Built high-frequency and trend-following EAs; improved execution reliability through code optimisation and robust error handling.",
-        "Conducted ETL and large-scale backtesting in MQL5/Python, enhancing validation accuracy and alpha generation.",
-        "Improved OTC workflows via automated signals and risk-based position sizing."
-      ]
-    },
+   
     {
       "name": "ZISHI",
       "position": "Junior Trader (Internship)",
